@@ -1,3 +1,6 @@
+[ExpDat_60CP60012CoPU3GPM-1C.txt](https://github.com/wendynoemi2021/Kinetic-calculation/files/6920511/ExpDat_60CP60012CoPU3GPM-1C.txt)
+[ExpDat_60CP60012CoPU5GPM-1C.txt](https://github.com/wendynoemi2021/Kinetic-calculation/files/6920513/ExpDat_60CP60012CoPU5GPM-1C.txt)
+[ExpDat_60CP60012CoPU10GPM-1C.txt](https://github.com/wendynoemi2021/Kinetic-calculation/files/6920514/ExpDat_60CP60012CoPU10GPM-1C.txt)
 # Kinetic calculation
 
 Thank you for your interest in our program.
